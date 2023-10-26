@@ -1,4 +1,0 @@
-El resultado de la suma es: 6
-El resultado de la suma es: 2
-El resultado de la suma es: 8
-El resultado de la suma es: 2
