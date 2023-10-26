@@ -1,0 +1,3 @@
+Empleado [id=1, cargo=SoftwareDeveloper, antiguedad=3, sueldo=2000.4]Adrian Perez Madrid 10-11-2000
+Empleado [id=1, cargo=SoftwareDeveloper2, antiguedad=3, sueldo=0.0]Adrian2 Perez2 Madrid2 10-11-2002
+Empleado [id=1, cargo=SoftwareDeveloper3, antiguedad=3, sueldo=4000.4]Adrian3 Perez3 Madrid3 10-11-2003
