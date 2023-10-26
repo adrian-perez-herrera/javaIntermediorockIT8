@@ -1,0 +1,1 @@
+Persona [nombre=Adrian, apellido=Perez, puestoLaboral=Software Developer, ciudad=Madrid Comida favorita: lentejas
