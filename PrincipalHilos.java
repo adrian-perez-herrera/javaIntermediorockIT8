@@ -10,8 +10,8 @@ public class PrincipalHilos extends Thread {
 
     public PrincipalHilos(int num1, int num2, int num3) {
         this.num1 = num1;
-        this.num1 = num2;
-        this.num1 = num3;
+        this.num2 = num2;
+        this.num3 = num3;
 
     }
 
