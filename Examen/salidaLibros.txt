@@ -1,0 +1,3 @@
+Libro [idcliente=1, nombre=libro1, genero=fantasia, fechaPublicacion=2025, estadoSolicitud=ENTREGADO fechaActualPedido=2 Segmentacion= Cliente al dia]
+Libro [idcliente=2, nombre=libro2, genero=aventuras, fechaPublicacion=2043, estadoSolicitud=ENTREGADO fechaActualPedido=20 Segmentacion= Cliente al dia]
+Libro [idcliente=3, nombre=libro3, genero=romantica, fechaPublicacion=2010, estadoSolicitud=PASO FECHA DE ENTREGA fechaActualPedido=-13 Segmentacion= Cliente no está al día]
